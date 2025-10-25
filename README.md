@@ -3,6 +3,7 @@ Periodic Table of Elements A visually appealing and responsive periodic table of
    <strong style="font-size: 10em;">
     this is my all projects
 </strong>
+<br>
 
 1. <a href="https://abdul-rafaycodeder.github.io/simpal_html_CV_3/">simpal_html_CV_3</a>
 2. <a href="https://abdul-rafaycodeder.github.io/simple-EV-scooter-website/">simple-EV-scooter-website</a>
