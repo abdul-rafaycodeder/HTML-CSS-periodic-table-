@@ -4,7 +4,8 @@ Periodic Table of Elements A visually appealing and responsive periodic table of
     this is my all projects
 </strong>
 
-1. <a href="https://abdul-rafaycodeder.github.io/simpal_html_CV_3/">1. <a href=""></a></a>
+1. <a href="https://abdul-rafaycodeder.github.io/simpal_html_CV_3/">simpal_html_CV_3
+</a>
 2. <a href="https://abdul-rafaycodeder.github.io/simple-EV-scooter-website/">simple-EV-scooter-website</a>
 3. <a href="https://abdul-rafaycodeder.github.io/HTML-CSS-Portfolio-Website-main-1/">HTML-CSS-Portfolio-Website-main-1</a>
 4. <a href="https://rafay-website.surge.sh/">Abdulrafay-Website-portfolio</a>
