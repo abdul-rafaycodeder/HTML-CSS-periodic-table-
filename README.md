@@ -1,4 +1,8 @@
 Periodic Table of Elements A visually appealing and responsive periodic table of elements created with JavaScript, HTML, and CSS.
 
-<a href="https://abdul-rafaycodeder.github.io/HTML-CSS-periodic-table-/">facebook</a>
+<strong>
+    this is my all projects
+</strong>
+
+
 
